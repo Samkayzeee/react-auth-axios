@@ -28,7 +28,7 @@ const Admin = () => {
 
                     console.log("Theirs an Error");
                 }else{
-                    console.log("Theirs ab Error");
+                    console.log("Theirs an Error");
                 }
 
             }finally{

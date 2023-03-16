@@ -14,7 +14,7 @@ const Card = (props) => {
                return (
         <div>
             <h1>{props.name}'s' Card is {count}</h1>
-            <button>change Name to Esther</button>
+            <button>change Name to Abdulsamad</button>
         </div>
     )
 }

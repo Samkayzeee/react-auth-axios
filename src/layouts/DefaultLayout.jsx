@@ -9,7 +9,7 @@ const DefaultLayout = ({children}) => {
                 {children}
             </div>
             <div>
-                <Card name={"Samuel Henshaw"} />
+                <Card name={"Abdulsamad"} />
             </div>
             {/* footer */}
        </main>
